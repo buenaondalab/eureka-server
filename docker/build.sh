@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t eureka-server ..
+docker build -t eureka-server .
