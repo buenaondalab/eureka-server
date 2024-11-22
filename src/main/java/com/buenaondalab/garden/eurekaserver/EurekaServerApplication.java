@@ -1,4 +1,4 @@
-package com.buenaondalab.garden.eureka_server;
+package com.buenaondalab.garden.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
